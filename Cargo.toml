@@ -1,0 +1,7 @@
+[package]
+name = "wtf-rs"
+description = "Wild Type-Fuckery in Rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
